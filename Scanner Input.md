@@ -1,4 +1,4 @@
-# Scanner Input
+# BufferedReader Input
 
 ``` Java
 import java.io.*;
